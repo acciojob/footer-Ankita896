@@ -35,5 +35,7 @@ footer {
 
 .media-icons img {
     width: 24px; /* Adjust size as needed */
-    height: auto;
+    height: auto;}
+.link-boxes{
+	display:flex;
 }
